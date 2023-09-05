@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """𝐇𝐞𝐥𝐥𝐨... {}
     
-𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/Rockerz_2k_bot><b>𝐑𝐨𝐜𝐤𝐞𝐫𝐳_𝟐𝐊_𝐁𝐨𝐭</b></a>
+𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=http://t.me/Rocky_Moviex_bot><b>🦞𝐑𝐨𝐜𝐤𝐲 𝐅𝐢𝐥𝐭𝐞𝐫 𝐑𝐨𝐛𝐨𝐭🎋</b></a>
 
 𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐌𝐚𝐤𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧.. 𝐓𝐡𝐞𝐧 𝐒𝐞𝐞 𝐌𝐲 𝐏𝐨𝐰𝐞𝐫
 
-𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/Rockerzz_2k><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
+𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/rocky_links_owner><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
 
@@ -26,23 +26,23 @@ class script(object):
     
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ 𝐂ʟɪᴄᴋɪɴɢ """
 
-    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Rockerz_2k_bot>𝐑𝐨𝐜𝐤𝐞𝐫𝐳_𝟐𝐊_𝐁𝐨𝐭</a>
-🥀 𝐆𝐫𝐞𝐚𝐭𝐖𝐚𝐥𝐥 𝐂𝐣 : 𝐑𝐨𝐜𝐤𝐞𝐫𝐳𝐳_𝟐𝐤
+    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=http://t.me/Rocky_Moviex_bot>🦞𝐑𝐨𝐜𝐤𝐲 𝐅𝐢𝐥𝐭𝐞𝐫 𝐑𝐨𝐛𝐨𝐭🎋</a>
+🥀 𝐆𝐫𝐞𝐚𝐭𝐖𝐚𝐥𝐥 𝐂𝐣 : 🏞𝐑𝐨𝐜𝐤𝐲 𝐋𝐢𝐧𝐤𝐳🎋
 ♣ 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 𝐓𝐠 : 𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫
 🌗 𝐎𝐫𝐚𝐜𝐥𝐞 𝐃𝐚𝐓𝐚 : 𝐏𝐲𝐭𝐡𝐨𝐧.𝟑
 ♠ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐲 : 𝐁𝐚𝐬𝐞 𝐑𝐞𝐠𝐢𝐬𝐭𝐞𝐫
 👨‍🔧 𝐇𝐨𝐬𝐭 𝐁𝐲 𝐌𝐞 : 𝐐𝐭𝐯𝐬
-⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a> """
+⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/rocky_links_owner>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a> """
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rockerzz_2k
+    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rocky_Links_Owner
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rocky_links>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rockerzz_2k</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rocky_Links_Owner</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rocky_links>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
@@ -63,7 +63,7 @@ class script(object):
 • Hᴏᴡ Tᴏ Usᴇ
 • Tʏᴘᴇ /video 𝘈𝘯𝘥 (YᴏᴜTᴜʙᴇ Vɪᴅᴇᴏ Lɪɴᴋ)
 • Exᴀᴍᴘʟᴇ:
-• /video https://t.me/+mDLUK0VwoxFkZjE1"""
+• /video https://t.me/+ipOrsQGjDFQyY2Y1"""
 
     TELE_TXT = """▫️Hᴇʟᴘ: ▪️ Tᴇʟᴇɢʀᴀᴘʜ ▪️
      Tᴇʟᴇɢʀᴀᴘʜ Lɪɴᴋ Gᴇɴᴇʀᴀᴛᴏʀ
@@ -72,13 +72,13 @@ class script(object):
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @Rockerz_2k</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @Rocky_links</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/Sxslinkdownload/2>Totorial</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/Rocky_links>Totorial</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
