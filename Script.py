@@ -32,7 +32,7 @@ class script(object):
 🌗 𝐎𝐫𝐚𝐜𝐥𝐞 𝐃𝐚𝐓𝐚 : 𝐏𝐲𝐭𝐡𝐨𝐧.𝟑
 ♠ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐲 : 𝐁𝐚𝐬𝐞 𝐑𝐞𝐠𝐢𝐬𝐭𝐞𝐫
 👨‍🔧 𝐇𝐨𝐬𝐭 𝐁𝐲 𝐌𝐞 : 𝐐𝐭𝐯𝐬
-⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/rocky_links_owner>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a> """
+⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/rocky_links_owner>🎋𝐑𝐨𝐜𝐤𝐲🗽</a> """
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rocky_Links_Owner
 
@@ -42,7 +42,7 @@ class script(object):
 
     SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rocky_Links_Owner</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rocky_links>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rocky_links>🎋𝐑𝐨𝐜𝐤𝐲🗽</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
